@@ -1,6 +1,11 @@
 List of development best practises
 =============
 
+
+___
+**Project moved to [DevShelf.us](http://devshelf.us/#!/search/best_practises)**
+___
+
 List of development best practises - guidelines, articles, videos, examples.
 
 ## CSS
